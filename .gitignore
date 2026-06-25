@@ -1,0 +1,40 @@
+# IDE & tools
+.claude/
+.vscode/
+.idea/
+
+# Python environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.*
+
+# Database files (generated from CSV)
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated output (charts, Excel exports)
+Output/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
