@@ -31,8 +31,6 @@ build/
 *.sqlite
 *.sqlite3
 
-# Generated output (charts, Excel exports)
-Output/
 
 # OS files
 .DS_Store
