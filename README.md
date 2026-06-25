@@ -161,16 +161,12 @@ ROI and Green Marketing/
 │   ├── Data Checking.sql                     # Schema validation & null checks
 │   ├── Exploratory Data Analyst.py           # SQL-based EDA (psychology, traffic, demographics)
 │   ├── Machine Learning.py                   # Model training, evaluation, visualizations
-│   └── Build PowerBI Data.py                 # Generates Excel workbook for Power BI
 └── Output/
     ├── confusion_matrices.png                # Side-by-side confusion matrix chart
     ├── feature_importance.png                # Feature importance comparison chart
-    └── PowerBI_Data.xlsx                     # 10-sheet workbook for dashboard
 ```
 
 ## Tech stack
 
 - Python 3 (pandas, scikit-learn, matplotlib)
 - SQLite
-- Power BI (three-tab dashboard: Traffic Funnel, Buyer Psychology, Predictive Targeting)
-- Excel (intermediate data layer between Python and Power BI)
